@@ -1,0 +1,16 @@
+[32m2023-06-28 07:24:18 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - e8e5d2b4-151b-43ad-b1b4-eb2bb561b079 - 205118 - LOGS_CAPTURED - Started capturing logs in process (pid: 205118).
+[32m2023-06-28 07:24:18 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - e8e5d2b4-151b-43ad-b1b4-eb2bb561b079 - 205118 - topstories - STEP_START - Started execution of step "topstories".
+[32m2023-06-28 07:24:18 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - e8e5d2b4-151b-43ad-b1b4-eb2bb561b079 - topstories - Loading file from: /workspaces/sn_repo/my-dagster-project/tmpkilrcro9/storage/topstory_ids
+[32m2023-06-28 07:24:18 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - e8e5d2b4-151b-43ad-b1b4-eb2bb561b079 - 205118 - topstories - ASSET_OBSERVATION - ASSET_OBSERVATION for step topstories
+[32m2023-06-28 07:24:19 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - e8e5d2b4-151b-43ad-b1b4-eb2bb561b079 - 205118 - topstories - LOADED_INPUT - Loaded input "topstory_ids" using input manager "io_manager", from output "result" of step "topstory_ids"
+[32m2023-06-28 07:24:19 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - e8e5d2b4-151b-43ad-b1b4-eb2bb561b079 - 205118 - topstories - STEP_INPUT - Got input "topstory_ids" of type "Any". (Type check passed).
+[32m2023-06-28 07:24:26 +0000[0m - dagster - [34mINFO[0m - __ASSET_JOB - e8e5d2b4-151b-43ad-b1b4-eb2bb561b079 - topstories - Got 20 items so far.
+[32m2023-06-28 07:24:34 +0000[0m - dagster - [34mINFO[0m - __ASSET_JOB - e8e5d2b4-151b-43ad-b1b4-eb2bb561b079 - topstories - Got 40 items so far.
+[32m2023-06-28 07:24:42 +0000[0m - dagster - [34mINFO[0m - __ASSET_JOB - e8e5d2b4-151b-43ad-b1b4-eb2bb561b079 - topstories - Got 60 items so far.
+[32m2023-06-28 07:24:50 +0000[0m - dagster - [34mINFO[0m - __ASSET_JOB - e8e5d2b4-151b-43ad-b1b4-eb2bb561b079 - topstories - Got 80 items so far.
+[32m2023-06-28 07:24:57 +0000[0m - dagster - [34mINFO[0m - __ASSET_JOB - e8e5d2b4-151b-43ad-b1b4-eb2bb561b079 - topstories - Got 100 items so far.
+[32m2023-06-28 07:24:57 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - e8e5d2b4-151b-43ad-b1b4-eb2bb561b079 - 205118 - topstories - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2023-06-28 07:24:57 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - e8e5d2b4-151b-43ad-b1b4-eb2bb561b079 - topstories - Writing file at: /workspaces/sn_repo/my-dagster-project/tmpkilrcro9/storage/topstories
+[32m2023-06-28 07:24:58 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - e8e5d2b4-151b-43ad-b1b4-eb2bb561b079 - 205118 - topstories - ASSET_MATERIALIZATION - Materialized value topstories.
+[32m2023-06-28 07:24:58 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - e8e5d2b4-151b-43ad-b1b4-eb2bb561b079 - 205118 - topstories - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2023-06-28 07:24:58 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - e8e5d2b4-151b-43ad-b1b4-eb2bb561b079 - 205118 - topstories - STEP_SUCCESS - Finished execution of step "topstories" in 39.08s.
